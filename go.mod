@@ -1,4 +1,4 @@
-module example
+module github.com/gaurav1068/example
 
 go 1.20
 
