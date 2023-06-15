@@ -6,6 +6,6 @@ import (
 	_ "github.com/gofrs/uuid"
 )
 
-func main() {
+func X() {
 	fmt.Println("vim-go")
 }
